@@ -1,15 +1,7 @@
 # Laboratorio 3
-```csharp
-Dictionary<int, string> paises = new Dictionary<int, string>(); 
-paises[44] = "Reino Unido"; 
-paises[33] = "França"; 
-paises[55] = "Brasil"; 
-Console.WriteLine("O código 55 é: {0}", paises[55]); 
-foreach (var item in paises) 
-{ 
-                int codigo = item.Key; 
-                string pais = item.Value; 
-                Console.WriteLine("Código {0} = {1}", codigo, pais); 
-} 
 
-```
+1. Como fazer para recuperar o código DDI a partir do nome de um país no exemplo de uso do Dicionário? 
+ 
+2. Dada  uma  lista  de  números  reais,  implemente  um  método  TotalAcimaMedia,  para  calcular  e  retornar  o número de elementos da lista cujos valores são maiores do que a média de todos os elementos. 
+ 
+3. Você  consegue  imaginar  uma  forma  de  retornar  uma  nova  lista  com  esses  valores,  ao  invés  de  apenas retornar o número de elementos? Crie o método ListaAcimaMedia.
