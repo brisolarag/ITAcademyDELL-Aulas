@@ -18,3 +18,5 @@ DateTime testeExercicio3 = DateTime.Now;
 DateTime testeExercicio3Mais10Dias = testeExercicio3.AddDays(10);
 System.Console.WriteLine($"3. Adicionado 10 dias a data de hoje ({testeExercicio3}): Resposta = {testeExercicio3Mais10Dias}");
 #endregion
+
+
