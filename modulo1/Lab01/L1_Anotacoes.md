@@ -7,9 +7,9 @@ dotnet new console -o "Laboratorio1"
 
 2. Exercises
     - Write some variables with ***float, double, and decimal***
-    - Do operations <sub>Search in the documentation</sub>with the class **String**
+    - Do operations with the class **String** _(Search in the documentation)_
     - Do the same with **DateTime**
-    - Explicit <sub>write the test</sub>convertions
+    - Explicit convertions _(write the test)_
         ```
         int i = 10; 
         float f = 0; 
