@@ -1,0 +1,15 @@
+A:\DELL\itacademy\modulo1\Laboratorio3\bin\Debug\net6.0\Laboratorio3.exe
+A:\DELL\itacademy\modulo1\Laboratorio3\bin\Debug\net6.0\Laboratorio3.deps.json
+A:\DELL\itacademy\modulo1\Laboratorio3\bin\Debug\net6.0\Laboratorio3.runtimeconfig.json
+A:\DELL\itacademy\modulo1\Laboratorio3\bin\Debug\net6.0\Laboratorio3.dll
+A:\DELL\itacademy\modulo1\Laboratorio3\bin\Debug\net6.0\Laboratorio3.pdb
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.csproj.AssemblyReference.cache
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.GeneratedMSBuildEditorConfig.editorconfig
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.AssemblyInfoInputs.cache
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.AssemblyInfo.cs
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.csproj.CoreCompileInputs.cache
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.dll
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\refint\Laboratorio3.dll
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.pdb
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\Laboratorio3.genruntimeconfig.cache
+A:\DELL\itacademy\modulo1\Laboratorio3\obj\Debug\net6.0\ref\Laboratorio3.dll
