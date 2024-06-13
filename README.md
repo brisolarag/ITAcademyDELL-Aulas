@@ -1,9 +1,7 @@
-# LEASSONS
+# LEASSONS (.NET 6.0)
 
 ## TECHNOLOGIES:
 ![alt text](assets/image.png)
-
-### .NET 6.0
 
 ## USEFUL LINKS:
 | Description | Link |
