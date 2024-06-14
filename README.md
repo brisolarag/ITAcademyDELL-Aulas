@@ -24,4 +24,4 @@
 <br>
 
 ## MÓDULOS
-![alt text](image.png)
+![alt text](assets/image2.png)
