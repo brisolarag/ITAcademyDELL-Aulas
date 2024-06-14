@@ -1,4 +1,4 @@
-# PROJETO INCOMPLETO
+# Laboratório 5 - Exercícios
 
 1. Altere o método Main para mostrar o uso das propriedades do círculo e círculo colorido. É possível utilizar as propriedades CentroX e CentroY em um objeto da classe CirculoColorido? 
  

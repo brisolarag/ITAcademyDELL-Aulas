@@ -14,7 +14,7 @@ namespace Laboratorio5.Circulos
             this.Cor = "preto";
         }
 
-        public CirculoColorido(double x, double y, double r, string c) : base () {
+        public CirculoColorido(double x, double y, double r, string c) : base (x,y,r) {
             this.Cor = c;
         }
 

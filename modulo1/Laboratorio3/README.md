@@ -1,4 +1,4 @@
-# Laboratorio 3
+# Laboratorio 3 - Exercícios
 
 1. Como fazer para recuperar o código DDI a partir do nome de um país no exemplo de uso do Dicionário? 
  

@@ -1,4 +1,4 @@
-# Lab 2
+# Laboratório 2 - Exercícios
 1. Faça um programa que crie dois arrays de tamanho iguais de números inteiros (digamos 100 elementos cada). Popule um dos arrays com diversos valores e deixe o outro array vazio. Agora, realize a cópia dos elementos do primeiro array para o segundo. Você realizou uma cópia explicita via um laço de repetição ou utilizou algum método da API do .Net? 
  
 

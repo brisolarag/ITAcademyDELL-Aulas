@@ -1,4 +1,4 @@
-# Exercícios 
+# Laboratório 4 - Exercícios 
  
 1. Altere a classe ContaCorrente de forma que ela possua atributos para armazenar a data de criação da conta e o nome do titular. O nome do titular deve ser informado como parâmetrodo construtor. A data de criação deve ser gerada no momento da inicialização (DateTime.Now). Crie também propriedades de acesso a estes atributos. 
  

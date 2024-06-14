@@ -1,4 +1,4 @@
-# Lab 1 - Working with basic data types
+# Laboratório 1 - Exercícios
 
 1. Creating a new project named with Laboratorio1
 ```bash
