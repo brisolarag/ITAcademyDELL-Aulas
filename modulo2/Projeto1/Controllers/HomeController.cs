@@ -18,6 +18,16 @@ public class HomeController : Controller
         return View();
     }
 
+    public void Acao01()
+    {
+        Console.WriteLine("Teste ação 01");
+    }
+
+    public string Acao02()
+    {
+        return "Teste ação 02";
+    }
+
     public IActionResult Privacy()
     {
         return View();
