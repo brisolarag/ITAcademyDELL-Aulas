@@ -17,7 +17,8 @@ namespace projeto_api_ef.Context
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
             base.OnConfiguring(optionsBuilder);
-            optionsBuilder.UseSqlServer(@"Server=win-brisolara;Database=itacademy_m4_projetoEF;Trusted_Connection=True");
+            // hide from GITHUB
+            optionsBuilder.UseSqlServer(@"Server=SERVER;Database=DATABASE;Trusted_Connection=True");
             optionsBuilder.EnableSensitiveDataLogging().LogTo(Console.WriteLine);
         }
     }
