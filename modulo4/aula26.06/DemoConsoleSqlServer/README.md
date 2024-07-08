@@ -22,3 +22,18 @@ public string Nome {get; set;}
 ```
 </br>
 
+- Configuração de chave primária:
+```csharp
+internal class Algo {
+    public string Id {get; set;}
+    // chave primaria
+}
+```
+
+```csharp
+internal class Algo {
+    public string AlgoId {get; set;}
+    // chave primaria
+}
+```
+
