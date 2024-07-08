@@ -8,7 +8,7 @@
 
 ### Convenções
 - Toda propriedade de escrita publica com getter e setter vai ser mapeada
->> add [NotMapped] para não mapear
+> add [NotMapped] para não mapear
 </br>
 
 - Propriedade é opicional se => **pode-se atribuir null para ela**
