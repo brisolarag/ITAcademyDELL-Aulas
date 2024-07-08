@@ -36,4 +36,10 @@ internal class Algo {
     // chave primaria
 }
 ```
+</br>
+
+- Cuidar com os construtores...
+> 1. The parameter types and names must match property types and names, except that properties can be Pascal-cased while the parameters are camel-cased.
+2. EF Core cannot set navigation properties (such as Blog or Posts above) using a constructor.
+3. The constructor can be public, private, or have any other accessibility. However, lazy-loading proxies require that the constructor is accessible from the inheriting proxy class. Usually this means making it either public or protected.
 
