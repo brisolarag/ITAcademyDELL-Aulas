@@ -1,17 +1,9 @@
-# Anotações:
-
-
-- CODE FIRST
-- DATABASE FIRST
-
-</br>
-
-### Convenções
-- Toda propriedade de escrita publica com getter e setter vai ser mapeada
+# Convenções
+### Toda propriedade de escrita publica com getter e setter vai ser mapeada
 > add [NotMapped] para não mapear
 </br>
 
-- Propriedade é opicional se => **pode-se atribuir null para ela**
+### Propriedade é opicional se => **pode-se atribuir null para ela**
 ```csharp
 public string? Nome {get; set;}
 // nome = nullable
@@ -22,7 +14,7 @@ public string Nome {get; set;}
 ```
 </br>
 
-- Configuração de chave primária:
+### Configuração de chave primária:
 ```csharp
 internal class Algo {
     public string Id {get; set;}
@@ -38,8 +30,8 @@ internal class Algo {
 ```
 </br>
 
-- Cuidar com os construtores...
+### Cuidar com os construtores...
 > 1. The parameter types and names must match property types and names, except that properties can be Pascal-cased while the parameters are camel-cased.
-2. EF Core cannot set navigation properties (such as Blog or Posts above) using a constructor.
-3. The constructor can be public, private, or have any other accessibility. However, lazy-loading proxies require that the constructor is accessible from the inheriting proxy class. Usually this means making it either public or protected.
+> 2. EF Core cannot set navigation properties (such as Blog or Posts above) using a constructor.
+> 3. The constructor can be public, private, or have any other accessibility. However, lazy-loading proxies require that the constructor is accessible from the inheriting proxy class. Usually this means making it either public or protected.
 
